@@ -1,0 +1,5 @@
+Metrics,yt_pred_time_trend_3,yt_pred_time_trend_3_seasonal,yt_pred_mlp_8,yt_pred_mlp_scaled_8,yt_pred_stacked_mlp,yt_pred_d1d13_ar13
+MSE Train,337556.42,68044.66,793456.14,106170.1,115875.97,66646.65
+MSE Test,547393.87,107356.45,4949339.42,291486.96,462726.38,138815.45
+MAE Train,433.32,202.35,718.88,245.37,247.23,188.42
+MAE Test,612.49,262.0,2091.06,351.13,502.36,267.05
